@@ -139,6 +139,8 @@ input[type='text'] {
 .logo{
   text-align: center;
   margin-left: 40%;
-  height:180px;
+  margin-bottom: 40px;
+  height:140px;
+  width:180px;
 
 }

@@ -7,7 +7,7 @@ function Character({items,isLoading}) {
     return (
         isLoading?(
             <h1>Loading...</h1>
-            // <Loading />
+            
         ):(
             <section className="cards">
                 {
